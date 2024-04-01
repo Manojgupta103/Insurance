@@ -6,6 +6,7 @@ The application also provides a simple interface for agents to manage the insura
 
 ## Project Structure
 
+markdown
 The project is structured as follows:
 - `components`: React components used in the application
 - `containers`: Higher-order components that wrap other components
