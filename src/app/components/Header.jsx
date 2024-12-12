@@ -18,7 +18,7 @@ export default function Header() {
           <Link href="/services/health" className="hover:text-blue-200">Health</Link>
           <Link href="/quote" className="hover:text-blue-200">Get a Quote</Link>
         </nav>
-        <button 
+        <button
           className="md:hidden"
           onClick={() => setIsMenuOpen(!isMenuOpen)}
         >
