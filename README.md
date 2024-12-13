@@ -23,7 +23,6 @@ The project is structured as follows:
 - `LICENSE`: The project's license file
 
 ## Getting Started
-
 First, run the development server:
 
 ## Features
