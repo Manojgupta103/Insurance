@@ -17,10 +17,10 @@ export default function Home() {
               </Link>
             </div>
             <div className="md:w-1/2">
-              <Image 
-                src="/placeholder.svg" 
-                alt="Happy family protected by insurance" 
-                width={500} 
+              <Image
+                src="/placeholder.svg"
+                alt="Happy family protected by insurance"
+                width={500}
                 height={300}
                 className="rounded-lg shadow-lg"
               />
