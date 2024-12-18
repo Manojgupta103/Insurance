@@ -1,9 +1,7 @@
 # Insurance Company
 
 This is a web application for an insurance company built with Next.js, a popular React framework for server-side rendering and static site generation.
-
 The application provides a simple interface for users to get a quote for their insurance policy. Users can input their personal information, select the type of insurance they are interested in, and receive a quote in real-time.
-
 The application also provides a simple interface for agents to manage the insurance policies of their clients. Agents can view the policies of their clients, update the status of the policies, and issue new policies.
 
 ## Getting Started
