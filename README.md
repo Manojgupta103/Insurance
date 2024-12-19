@@ -4,6 +4,24 @@ This is a web application for an insurance company built with Next.js, a popular
 The application provides a simple interface for users to get a quote for their insurance policy. Users can input their personal information, select the type of insurance they are interested in, and receive a quote in real-time.
 The application also provides a simple interface for agents to manage the insurance policies of their clients. Agents can view the policies of their clients, update the status of the policies, and issue new policies.
 
+## Project Structure
+The project is structured as follows:
+- `components`: React components used in the application
+- `containers`: Higher-order components that wrap other components
+- `models`: Data models used in the application
+- `pages`: Pages in the application
+- `services`: API services used in the application
+- `utils`: Utility functions used in the application
+- `styles`: Global styles for the application
+- `index.js`: The main entry point of the application
+- `App.js`: The main application component
+- `index.html`: The main HTML file for the application
+- `package.json`: The project's package file
+- `.env.local`: Environment variables for the application
+- `README.md`: This file
+- `CONTRIBUTING.md`: Contribution guidelines
+- `LICENSE`: The project's license file
+
 ## Getting Started
 
 First, run the development server:
@@ -67,4 +85,5 @@ We welcome contributions to enhance the platform. Please follow our [contributio
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
