@@ -34,7 +34,6 @@ First, run the development server:
 - **Comprehensive Coverage Options**: The platform offers a wide range of coverage options tailored to different needs and budgets.
 
 ## Prerequisites
-
 - Node.js (v14.x or above)
 - npm (v6.x or above)
 
