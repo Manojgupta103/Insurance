@@ -5,6 +5,7 @@ The application provides a simple interface for users to get a quote for their i
 The application also provides a simple interface for agents to manage the insurance policies of their clients. Agents can view the policies of their clients, update the status of the policies, and issue new policies.
 
 ## Project Structure
+
 The project is structured as follows:
 - `components`: React components used in the application
 - `containers`: Higher-order components that wrap other components
