@@ -45,7 +45,6 @@ First, run the development server:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Manojgupta103/Insurance.git
-
    ```
 
 2. Install the dependencies:
