@@ -71,6 +71,7 @@ To create a production build, run:
 ```bash
 npm run build
 ```
+
 After the build completes, start the application with:
 
 ```bash
