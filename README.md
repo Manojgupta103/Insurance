@@ -78,6 +78,7 @@ After the build completes, start the application with:
 npm start
 ```
 
+
 ## Contributing
 
 We welcome contributions to enhance the platform. Please follow our [contribution guidelines](CONTRIBUTING.md) to get started.
