@@ -36,6 +36,7 @@ First, run the development server:
 - **Secure Data Handling**: User data is securely handled using industry-standard encryption and authentication practices.
 - **Comprehensive Coverage Options**: The platform offers a wide range of coverage options tailored to different needs and budgets.
 - **Easy Policy Updates**: Agents can easily update policy details, including coverage amounts, deductibles, and payment schedules.
+- **Client Portal**: Clients can access their policy information, make payments, and update their contact details
 
 ## Prerequisites
 
