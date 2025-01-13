@@ -4,7 +4,6 @@ This web application, built with Next.js, provides a comprehensive solution for 
 Users can easily obtain insurance quotes, while agents can efficiently manage client policies. 
 The application is designed to be user-friendly, secure, and scalable.
 
-
 ## Features
 - **Real-time Quotes**: Obtain quotes for auto, home, life, and health insurance instantly.
 - **Policy Management**: Agents can manage client policies, update statuses, and issue new policies through an intuitive dashboard.
