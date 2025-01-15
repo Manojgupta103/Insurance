@@ -12,6 +12,7 @@ The application is designed to be user-friendly, secure, and scalable.
 - **Comprehensive Coverage Options**: Offers a variety of coverage options to suit different needs and budgets.
 - **Easy Policy Updates**: Agents can update policy details such as coverage amounts, deductibles, and payment schedules.
 - **Client Portal**: Clients can access policy information, make payments, and update contact details.
+- **Agent Portal**: Agents can manage client policies, view policy history, and generate reports.
 
 ## Project Structure
 
