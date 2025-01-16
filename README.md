@@ -1,10 +1,11 @@
 # Insurance Company
 
-This web application, built with Next.js, provides a comprehensive solution for both users and agents in the insurance industry. 
-Users can easily obtain insurance quotes, while agents can efficiently manage client policies. 
+This web application, built with Next.js, provides a comprehensive solution for both users and agents in the insurance industry.
+Users can easily obtain insurance quotes, while agents can efficiently manage client policies.
 The application is designed to be user-friendly, secure, and scalable.
 
 ## Features
+
 - **Real-time Quotes**: Obtain quotes for auto, home, life, and health insurance instantly.
 - **Policy Management**: Agents can manage client policies, update statuses, and issue new policies through an intuitive dashboard.
 - **Responsive Design**: Optimized for desktops, tablets, and mobile devices.
@@ -17,6 +18,7 @@ The application is designed to be user-friendly, secure, and scalable.
 ## Project Structure
 
 The project is organized as follows:
+
 - `components`: Reusable React components.
 - `containers`: Higher-order components that wrap other components.
 - `models`: Data models used in the application.
@@ -41,11 +43,13 @@ The project is organized as follows:
 ## Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/Manojgupta103/Insurance.git
    ```
 
 2. Install dependencies:
+
    ```bash
    npm install
    ```
@@ -55,6 +59,7 @@ The project is organized as follows:
 ## Running the Application
 
 Start the development server:
+
 ```bash
 npm run dev
 ```
@@ -64,11 +69,13 @@ Open [http://localhost:3000](http://localhost:3000) to view the application. The
 ## Building for Production
 
 Create a production build:
+
 ```bash
 npm run build
 ```
 
 Start the application:
+
 ```bash
 npm start
 ```
@@ -80,4 +87,3 @@ We welcome contributions. Please follow our [contribution guidelines](CONTRIBUTI
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
