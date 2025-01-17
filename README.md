@@ -8,6 +8,7 @@ The application is designed to be user-friendly, secure, and scalable.
 
 - **Real-time Quotes**: Obtain quotes for auto, home, life, and health insurance instantly.
 - **Policy Management**: Agents can manage client policies, update statuses, and issue new policies through an intuitive dashboard.
+- **User Authentication**: Secure login and registration for both users and agents, ensuring only authorized individuals can
 - **Responsive Design**: Optimized for desktops, tablets, and mobile devices.
 - **Secure Data Handling**: Ensures user data security with industry-standard encryption and authentication.
 - **Comprehensive Coverage Options**: Offers a variety of coverage options to suit different needs and budgets.
