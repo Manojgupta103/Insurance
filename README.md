@@ -5,7 +5,7 @@ Users can easily obtain insurance quotes, while agents can efficiently manage cl
 The application is designed to be user-friendly, secure, and scalable.
 
 ## Features
-
+### User Features
 - **Real-time Quotes**: Obtain quotes for auto, home, life, and health insurance instantly.
 - **Policy Management**: Agents can manage client policies, update statuses, and issue new policies through an intuitive dashboard.
 - **User Authentication**: Secure login and registration for both users and agents, ensuring only authorized individuals can
