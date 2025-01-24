@@ -1,5 +1,6 @@
 # Insurance Company
 
+
 This web application, built with Next.js, provides a comprehensive solution for both users and agents in the insurance industry.
 Users can easily obtain insurance quotes, while agents can efficiently manage client policies.
 The application is designed to be user-friendly, secure, and scalable.
