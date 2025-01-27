@@ -4,7 +4,9 @@
 **Overview**
 ------------
 
-This web application is built using Next.js, a popular React-based framework for building server-side rendered (SSR) and statically generated websites. The application provides a comprehensive solution for both users and agents in the insurance industry, enabling users to obtain insurance quotes and agents to manage client policies efficiently.
+
+This web application is built using Next.js, a popular React-based framework for building server-side rendered (SSR) and statically generated websites. 
+The application provides a comprehensive solution for both users and agents in the insurance industry, enabling users to obtain insurance quotes and agents to manage client policies efficiently.
 
 **Features**
 ------------
