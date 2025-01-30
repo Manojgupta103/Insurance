@@ -29,6 +29,7 @@ The application is designed to be user-friendly, secure, and scalable, making it
 *   **Static Site Generation (SSG)**: The application can be built as a statically generated website, reducing server load and improving performance.
 *   **API Integration**: The application integrates with a RESTful API to fetch insurance quotes and manage policy information, enabling seamless communication between the frontend and backend.
 *   **State Management**: The application utilizes React Context API for state management, ensuring efficient and scalable state management across the application.
+*   **Authentication**: The application implements secure authentication using JSON Web Tokens (JWT) and OAuth
 
 **Project Structure**
 ---------------------
