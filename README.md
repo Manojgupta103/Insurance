@@ -30,6 +30,7 @@ The application is designed to be user-friendly, secure, and scalable, making it
 *   **API Integration**: The application integrates with a RESTful API to fetch insurance quotes and manage policy information, enabling seamless communication between the frontend and backend.
 *   **State Management**: The application utilizes React Context API for state management, ensuring efficient and scalable state management across the application.
 *   **Authentication**: The application implements secure authentication using JSON Web Tokens (JWT) and OAuth
+*   **Database Integration**: The application integrates with a database to store and retrieve policy information, user
 
 **Project Structure**
 ---------------------
