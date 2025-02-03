@@ -2,6 +2,7 @@
 
 A comprehensive web application for insurance companies, built using Next.js, a popular React-based framework for building server-side rendered (SSR) and statically generated websites.
 
+
 ## Features
 
 ### User Features
@@ -53,5 +54,54 @@ The project is organized into the following directories and files:
 ## Installation
 
 1.  Clone the repository:
+
+
+    ```bash
+git clone https://github.com/Manojgupta103/Insurance.git
+```
+
+2.  Install dependencies:
+
+    ```bash
+npm install
+```
+
+3.  Set up environment variables in `.env.local`.
+
+**Running the Application**
+---------------------------
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) to view the application. The page will reload on edits.
+
+**Building for Production**
+---------------------------
+
+Create a production build:
+
+```bash
+npm run build
+```
+
+Start the application:
+
+```bash
+npm start
+```
+
+**Contributing**
+--------------
+
+We welcome contributions. Please follow our [contribution guidelines](CONTRIBUTING.md).
+
+**License**
+----------
+
+This project is licensed under the MIT License
 
     
