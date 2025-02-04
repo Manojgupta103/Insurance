@@ -55,7 +55,6 @@ The project is organized into the following directories and files:
 
 1.  Clone the repository:
 
-
     ```bash
 git clone https://github.com/Manojgupta103/Insurance.git
 ```
