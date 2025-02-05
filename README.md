@@ -2,7 +2,6 @@
 
 A comprehensive web application for insurance companies, built using Next.js, a popular React-based framework for building server-side rendered (SSR) and statically generated websites.
 
-
 ## Features
 
 ### User Features
@@ -16,6 +15,7 @@ A comprehensive web application for insurance companies, built using Next.js, a 
 *   Easy Policy Updates: Agents can update policy details, such as coverage amounts, deductibles, and payment schedules, with ease, ensuring accurate and up-to-date policy information.
 *   Client Portal: Clients can access policy information, make payments, and update contact details through a secure and user-friendly portal.
 *   Agent Portal: Agents can manage client policies, view policy history, and generate reports through a dedicated portal, streamlining their workflow and improving productivity.
+*   Real-time Notifications: Sends real-time notifications to agents and clients regarding policy updates, payment reminders
 
 ### Technical Features
 
