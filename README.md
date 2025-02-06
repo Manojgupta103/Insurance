@@ -50,6 +50,7 @@ The project is organized into the following directories and files:
 
 *   Node.js: Version 14.x or above, providing a JavaScript runtime environment for the application.
 *   npm: Version 6.x or above, providing a package manager for installing dependencies and managing scripts.
+*   yarn: Version 1.x or above, providing a package manager for installing dependencies and managing
 
 ## Installation
 
